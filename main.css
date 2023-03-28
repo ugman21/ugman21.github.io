@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-family: 'Poppins:wght@400', sans-serif;
+}
+    
+a {
+  color: red;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif; 
+  font-weight : 100;
+}
+
+p {
+  font-family: 'Poppins', sans-serif; 
+  font-weight : 100;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif; 
+  font-weight : 100;
+}
