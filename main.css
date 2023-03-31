@@ -12,7 +12,6 @@
 }
 
 .header {
-  
   position: fixed;
   left: 0;
   top: 0;
@@ -22,6 +21,7 @@
   color: white;
   text-align: center;
   font-family: 'Poppins:wght@400', sans-serif;
+}
     
 a {
   color: red;
