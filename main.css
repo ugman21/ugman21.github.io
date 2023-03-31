@@ -14,11 +14,13 @@
 .header {
   overflow: hidden;
   background-color: red;
-  height: 30%;
+  height: 5%;
   position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
+  top: 0%; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
+  left: 0px;
   font-family: 'Poppins:wght@400', sans-serif;
+  text-align:center;
 }
     
 a {
@@ -43,7 +45,7 @@ h2 {
 }
 
 img {
-    position: sticky;
-    top: 0px;
-    left: 139px;
+    position: relative;
+    top: -140px;
+    justify-content: center;
 }
