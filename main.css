@@ -13,7 +13,7 @@
 
 .header {
   overflow: hidden;
-  background-color: red;
+  background-color: white;
   height: 40px;
   position: fixed; /* Set the navbar to fixed position */
   top: 0%; /* Position the navbar at the top of the page */
