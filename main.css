@@ -42,5 +42,7 @@ h2 {
 }
 
 img {
-    object-fit: contain;
+    position: sticky;
+    top: 0px;
+    left: 139px;
 }
