@@ -40,3 +40,9 @@ h2 {
   font-family: 'Poppins', sans-serif; 
   font-weight : 100;
 }
+
+img {
+    width: 100%; /* or any custom size */
+    height: 100%; 
+    object-fit: contain;
+}
