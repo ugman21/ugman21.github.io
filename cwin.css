@@ -24,6 +24,16 @@
   margin: auto;
   resize: none;
 }
+
+.download {
+  left: 0px;
+  width: 500px;
+  height: 300px;
+  background-color: blue;
+  color: white;
+  font-family: 'Poppins:wght@400', sans-serif;
+  position:relative;
+}
     
 a {
   color: red;
@@ -37,8 +47,8 @@ h1 {
 }
 
 p {
-  font-family: 'Poppins', sans-serif; 
-  font-weight : 100;
+  font-family: 'Poppins', sans-serif;
+  line-height: 0.3;
 }
 
 h2 {
